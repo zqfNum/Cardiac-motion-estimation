@@ -1,0 +1,14 @@
+datasets
+   ACDC
+    ---train
+      ---patient001.nii.gz
+      ---patient002.nii.gz
+    ---label
+      ---patient001.nii.gz
+      ---patient002.nii.gz
+      ---patient003.nii.gz
+      ---patient004.nii.gz
+    ---valid
+      ---patient003.nii.gz
+    ---test
+      ---patient004.nii.gz
